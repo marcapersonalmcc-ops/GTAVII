@@ -1,0 +1,6 @@
+{
+  "appId": "com.miguel.gtavii",
+  "appName": "GTA VII",
+  "webDir": "www",
+  "android": { "backgroundColor": "#e8f1ff" }
+}
